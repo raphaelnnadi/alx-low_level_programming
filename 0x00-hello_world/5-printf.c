@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - print the string in the put function
+ * Description:  main - Prints out a string to stdout.
  * 
- * Description: using the main function
- * Return: 0
+ * Return: 0 if success.
+ * 
  */
 int main(void)
 
