@@ -1,6 +1,6 @@
 /*
  * File: 0-sum_them_all.c
- * Auth: Tolulope Fakunle
+ * Auth: Raphael Nnadi
  */
 
 #include "variadic_functions.h"
